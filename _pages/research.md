@@ -4,9 +4,7 @@ permalink: /research/
 classes: wide
 ---
 
-Something goes here! I'm just going to type a bunch to see if the wide class actually took effect. I suspect there's probably going to be a problem but this should at least be a decent start. Perhaps I can specify the class in the front end of each page?
-
-This comes after
+My research interests include: alternative data; information processing; regulation; corporate governance; monitoring & oversight mechanisms; debt contracting; and fraud & financial misconduct.
 
 
 ## Job Market Paper

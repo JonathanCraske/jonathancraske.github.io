@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my Website!"
+title: "Welcome!"
 permalink: /
 classes: wide
 ---
@@ -10,4 +10,4 @@ My research interests broadly include alternative data; information processing; 
 
 Prior to pursuing a career in research, I worked as a Forensic Data Analytics consultant at KPMG LLP in Toronto. I received by my CPA, CA designation after achieving National Honour Roll status in my common final examination (2016 - top 1% of national writers). I hold undergraduate and graduate degrees from McGill University and Queen's University respectively. Please click for my [CV](/cv/).
 
-Outside of accounting and academia, my interests include cooking, running, ice hockey, collecting and listening to vinyl records, and deficiently playing a variety of instruments. Please click to learn more about [About Me](/about-me/).
+Outside of accounting and academia, my interests include cooking, running, ice hockey, collecting and listening to vinyl records, and deficiently playing a variety of instruments. Please click to learn more [About Me](/about-me/).
