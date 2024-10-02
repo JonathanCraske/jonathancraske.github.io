@@ -1,0 +1,15 @@
+- selector: about_slider
+  captions: true
+  images:
+    - src: /assets/images/RUN-543.jpg
+      Title: The Eagle Rock Run Club (ERRC)
+      alt: Our team ran from Santa Monica to Las Vegas in a time of 50:23
+    - src: /assets/images/img_1269.jpg
+      title: Concerts in LA
+      title: I have been fortunate enough to attend several concerts while at USC, including this one for St Motel
+    - src: /assets/images/img_1190.jpg
+      title: LA's Incredible Burger Scene
+      alt: LA has one of the most vibrant street food cultures in the US, of which cheeseburgers are a signficant part
+  settings:
+    height: "'300'"
+    effect: "'fade'"

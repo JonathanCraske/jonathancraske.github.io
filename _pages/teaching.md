@@ -24,7 +24,7 @@ classes: wide
 </details>
 </blockquote>
 - Student Evaluation: 4.8/5.0
-- Recipient of the USC Marshall PhD Student Teaching Award
+- Recipient of the *USC Marshall PhD Student Teaching Award*
 
 
 ## Teaching Assistant

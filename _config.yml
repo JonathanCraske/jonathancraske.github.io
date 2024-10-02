@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "Jonathan A. Craske"
-  avatar           : "/assets/images/jac_headshot_1.jpg"
+  avatar           : "/assets/images/jac_headshot_2.jpg"
   bio              : "Ph.D. Candidate in Accounting at the University of Southern California"
   location         : "Los Angeles, CA"
   email            : "jonathan.craske@marshall.usc.edu"
@@ -112,9 +112,6 @@ author:
     - label: "USC Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.marshall.usc.edu/personnel/jonathan-craske"
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/jonathan-craske-cpa-ca-18b52549/"
@@ -273,8 +270,9 @@ compress_html:
 
 # Defaults
 defaults:
-  - classes: wide
+  #- classes: wide
   # _posts
+  - layout: single
   - scope:
       path: ""
       type: posts
@@ -290,7 +288,6 @@ defaults:
   - scope:
       path: ""
       type: pages
-      classes: wide
     values:
       layout: single
       author_profile: true

@@ -2,24 +2,22 @@
 title: "About Me"
 permalink: /about-me/
 classes: wide
+
+image_sliders:
+    - about_slider
+
 ---
 
 
 ## Sports & Recreation
-As a devotee of many Canadian stereotypes, I grew up playing ice hockey competitive as a goalie. I am a 2-time GTHL City Champion (2007, 2008), Bantam All-Star (2010), 4-time TDSB City Champion, and 2-time McGill Intramural Champion. As a fan, I lead a life of martyrdom as a supporter of the Toronto Maple Leafs. During my time at USC, I took advantage of the comparably cheap tickets and attended several LA Kings games, often to cheer for visiting teams. I grew up idolizing Curtis Joseph, Patrick Roy, Roberto Luongo, and Marc-Andre Fleury.
+As a devotee of many Canadian stereotypes, I am an avid hockey fan. I grew up playing the sport competitively, and continue to play for fun whenever possible. I follow professional hockey closely, and am a long-suffering supporter of the Toronto Maple Leafs.
 
-I am also an avid runner. I have completed several half-marathons while living in LA, and as part of my local run club will be competing in the coveted TSP - an unsanctioned relay race from the Santa Monica pier to Las Vegas - as well as the Big Sur International Marathon.
+I also enjoy long-distance running, and have completed several races during my PhD including a 24-hour marathon, several half-marathons, and The Speed Project in 2024 - an unsanctioned relay race from the Santa Monica Pier to Las Vegas.
 
 
 ## Music
-Music has always been a big part of my life, beginning with my discovery of my Dad's CD collection when I was 6, followed quickly by lessons in how fragile CDs are. I have engaged this interest through a number of channels despite my decided lack of talent. I have played in a number of orchestras, stage bands, and informal groups as a saxophone player, guitarist, bassist, and drummer.
-
-I began collecting records with a purchase of David Bowie's "The Rise and Fall of Ziggy Stardust and the Spiders From Mars" in 2008, and have since accumulated over 200 records. Feel free to peruse and pass judgement on my collection listed here.
-
-I previously served as a member of the board of directors for Wavelength, Toronto's longest running independent music festival, and continue to enjoy going to live shows whenever possible.
+I am extremely passionate about music. I grew up playing several instruments including saxophone and guitar, and previously served on the board of directors for Wavelength - Toronto's longest running independent music festival. While studying at USC, I have taken advantage of the exceptional live-music scene in LA and continue to grow my record collection (which currently stands at more than 225).
 
 
 ## Cooking & Food
-Growing up in a half-Italian household, I learned to cook at an early age, and it's something that still brings me great joy. I especially enjoy cooking traditional southern-Italian dishes (including and especially fresh pasta), Canadian delicacies (Butter Tarts), and a multitude of other cuisines.
-
-While in LA, I primarily relied on the city's exceptional street-food culture as a means through which to explore. Specifically, I rely on cheeseburgers to guide me anytime I visit a new city - recommendations are always welcome!
+Food has always been, and continues to be, a big part of my life. I love to cook and bake whenever I have the opportunity. While in LA, I primarily relied on the city's exceptional street-food culture as a means through which to explore. Specifically, I rely on cheeseburgers to guide me anytime I visit a new city - recommendations are always welcome!
