@@ -21,7 +21,7 @@ My research focuses on information and contracting dynamics. More specifically, 
 
 ## Working Papers
 ### Banking on Lenders: Delegated Monitoring at the Debt-Equity Interface
-with [KR Subramanyam](https://www.marshall.usc.edu/personnel/kr-subramanyam) - *Preparing for Submission*
+with [KR Subramanyam](https://www.marshall.usc.edu/personnel/kr-subramanyam) - *Under Review at Journal of Accounting Research*
 
 <!-- <blockquote>
 <details>
