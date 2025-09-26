@@ -2,8 +2,11 @@
    MASTHEAD
    ========================================================================== */
 
+
+
 .masthead {
   position: relative;
+  background-color: #275D38;
   border-bottom: 1px solid $border-color;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
@@ -68,7 +71,6 @@
 
   .site-nav {
     margin-left: 0;
-
     @include breakpoint($small) {
       float: right;
     }

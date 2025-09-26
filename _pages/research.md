@@ -16,12 +16,13 @@ My research focuses on information and contracting dynamics. More specifically, 
 </details>
 </blockquote> -->
 
-- Committee: [KR Subramanyam (Chair)](https://www.marshall.usc.edu/personnel/kr-subramanyam), [Clive Lennox](https://www.marshall.usc.edu/personnel/clive-lennox), [Lorien Stice-Lawrence](https://www.marshall.usc.edu/personnel/lorien-stice-lawrence), [John Matsusaka](https://www.marshall.usc.edu/personnel/john-g-matsusaka)
+- Presented at: *Haskayne & Fox Accoutning Research Confernece, University of Alberta, SUNY Binghamton, Simon Fraser University*
+- Draft available upon request
 
 
 ## Working Papers
 ### Banking on Lenders: Delegated Monitoring at the Debt-Equity Interface
-with [KR Subramanyam](https://www.marshall.usc.edu/personnel/kr-subramanyam) - *Under Review at the Journal of Financial and Quantitative Analysis*
+with [KR Subramanyam](https://www.marshall.usc.edu/personnel/kr-subramanyam) - *Preparing for Submission*
 
 <!-- <blockquote>
 <details>
@@ -46,7 +47,7 @@ with [Maria Khrakovsky](https://sites.google.com/view/maria-khrakovsky) - *Prepa
 </details>
 </blockquote> -->
 
-- Presented at: *Haskayne & Fox Accounting Research Conference, University of Chicago Booth Informal Workshop*
+- Presented at: *Haskayne & Fox Accounting Research Conference, The Ohio State University, AAA Annual Meeting, University of Chicago Booth Informal Workshop*
 - Draft available upon request
 
 

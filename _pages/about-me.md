@@ -1,5 +1,6 @@
 ---
 title: "About Me"
+published: false
 permalink: /about-me/
 classes: wide
 
@@ -16,7 +17,7 @@ I also enjoy long-distance running, and have completed several races during my P
 
 
 ## Music
-I am extremely passionate about music. I grew up playing several instruments including saxophone and guitar, and previously served on the board of directors for Wavelength - Toronto's longest running independent music festival. While studying at USC, I have taken advantage of the exceptional live-music scene in LA and continue to grow my record collection (which currently stands at more than 225).
+I am extremely passionate about music. I grew up playing several instruments including saxophone and guitar, and previously served on the board of directors for Wavelength - Toronto's longest running independent music festival. I have enjoyed exceptional live-music scene in LA and continue to grow my record collection (which currently stands at more than 225).
 
 
 ## Cooking & Food

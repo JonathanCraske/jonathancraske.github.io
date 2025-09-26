@@ -7,3 +7,30 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* --- Your custom overrides go here --- */
+
+/* Example: force green masthead */
+.masthead,
+.masthead__inner-wrap,
+.masthead .greedy-nav,
+.masthead .greedy-nav .visible-links,
+.masthead .greedy-nav .hidden-links {
+  background-color: #275D38 !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* Make text readable on green */
+.masthead,
+.masthead a,
+.masthead__inner-wrap a,
+.masthead .site-title a {
+  color: #fff !important;
+}
+
+/* Hover/focus state: turn gold */
+.masthead .greedy-nav a:hover,
+.masthead .greedy-nav a:focus {
+  color: $uofa_gold !important;
+}

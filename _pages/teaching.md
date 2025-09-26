@@ -3,6 +3,9 @@ title: "Teaching"
 permalink: /teaching/
 classes: wide
 ---
+I will be teaching [ACCTG 211 - Introduction to Accounting for Financial Performance](https://apps.ualberta.ca/catalogue/course/acctg/211#1940) at the University of Alberta beginning the Winter Semester of 2026.
+
+
 ## Course Instructor
 
 

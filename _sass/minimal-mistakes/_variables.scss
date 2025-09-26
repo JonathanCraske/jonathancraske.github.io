@@ -70,7 +70,8 @@ $border-color: $lighter-gray !default;
 $form-background-color: $lighter-gray !default;
 $footer-background-color: $lighter-gray !default;
 
-$primary-color: #990000 !default;
+$primary-color: #275D38 !default;
+$uofa_gold: #F2CD00 !default;
 $success-color: #3fa63f !default;
 $warning-color: #d67f05 !default;
 $danger-color: #ee5f5b !default;
@@ -112,12 +113,13 @@ $xing-color: #006567 !default;
 $usc-yellow: #FFC72C !default;
 
 /* links */
-$link-color: mix(#000, $primary-color, 20%) !default;
-$link-color-hover: mix(#000, $usc-yellow, 25%) !default;
+$link-color: $primary-color !default;
+$link-color-hover: mix(#0000, $uofa_gold, 30%)!default;
 $link-color-visited: mix(#fff, $primary-color, 15%) !default;
 $masthead-link-color: $primary-color !default;
-$masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
+$masthead-link-color-hover: $uofa_gold !default;
 $navicon-link-color-hover: mix(#fff, $primary-color, 75%) !default;
+
 
 /* notices */
 $notice-background-mix: 80% !default;

@@ -170,6 +170,7 @@
 
 .greedy-nav {
   position: relative;
+  background-color: #275D38;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -188,7 +189,7 @@
     transition: none;
 
     &:hover {
-      color: $masthead-link-color-hover;
+      color: $uofa_gold;
     }
 
     &.site-logo {
@@ -243,7 +244,7 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: $primary-color;
+        background: $uofa_gold;
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;

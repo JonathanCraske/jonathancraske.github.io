@@ -138,10 +138,12 @@ a {
     color: $link-color-visited;
   }
 
-  &:hover {
-    color: $link-color-hover;
+  &:not(.masthead a):hover {
+    color: $primary-color;
+    background-color: $uofa_gold;
     outline: 0;
   }
+
 }
 
 /* buttons */

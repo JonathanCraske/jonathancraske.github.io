@@ -18,14 +18,14 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "Jonathan A. Craske"
 title_separator          : "-"
-subtitle                 : "Ph.D. Candidate in Accounting at USC"
+subtitle                 : "Assistant Professor of Accounting at the University of Alberta"
 name                     : "Jonathan A. Craske"
-description              : "Website for Jonathan A. Craske - Ph.D. Candidate in Accounting at USC"
+description              : "Website for Jonathan A. Craske - Assistant Professor of Accounting"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "JonathanCraske/jonathancraske.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/usc_logo.png"
+logo                     : "assets/images/UA_Logo_Shield_WHT_RGB.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
@@ -104,17 +104,14 @@ analytics:
 # Site Author
 author:
   name             : "Jonathan A. Craske"
-  avatar           : "/assets/images/Craske_Photo_Apr2021.jpg"
-  bio              : "Ph.D. Candidate in Accounting at the University of Southern California"
-  location         : "Los Angeles, CA"
-  email            : "jonathan.craske@marshall.usc.edu"
+  avatar           : "/assets/images/jac_headshot_2.jpg"
+  bio              : "Assistant Professor of Accounting at the University of Alberta"
+  location         : "Edmonton, AB"
+  email            : "jonathan.craske@ualberta.ca"
   links:
-    - label: "USC Website"
+    - label: "UofA Website"
       icon: "fas fa-fw fa-link"
-      url: "https://www.marshall.usc.edu/personnel/jonathan-craske"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/jonathan-craske-cpa-ca-18b52549/"
+      url: "https://apps.ualberta.ca/directory/person/craske"
     - label: "CV"
       icon: "fas fa-fw fa-file-alt"
       url: "/cv/"
@@ -148,6 +145,7 @@ include:
   - .htaccess
   - _pages
 exclude:
+  - about-me.md
   - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor
